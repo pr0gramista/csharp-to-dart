@@ -13,11 +13,16 @@ class Garbage
     }
 }
 
+/// Blah blah blah
 public enum Season
 {
+    /// Blah blah blah
     Spring = 1,
+    /// Blah blah blah
     Summer = 2,
+    /// Blah blah blah
     Autumn = 3,
+    /// Blah blah blah
     Winter = 4
 }
 
