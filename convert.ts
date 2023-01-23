@@ -62,4 +62,6 @@ for (const node of cursor.currentNode.children) {
   }
 }
 
+// The output is:
+// enum Season { Spring = 1,Summer = 2,Autumn = 3,Winter = 4 }
 console.log(output);
